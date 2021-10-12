@@ -1,0 +1,3 @@
+this file is created to demonstrate FILE I/O in Pyhthon
+
+Cool!!

@@ -1,0 +1,3 @@
+This file is to be copied for the demonstration of File I/O problem 
+
+Cool!!
